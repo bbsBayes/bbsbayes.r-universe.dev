@@ -1,6 +1,16 @@
 [
   {
     "package": "bbsBayes2",
-    "url": "https://github.com/bbsBayes/bbsBayes2"
+    "url": "https://github.com/bbsBayes/bbsBayes2",
+    "branch": "*release"
+  },
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr/",
+    "branch": "*release"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires"
   }
 ]
