@@ -4,7 +4,7 @@ library(dplyr)
 
 df <- tribble(
   ~package,            ~url,                                              ~branch,
-  "bbsBayes2",          "https://github.com/bbsBayes/bbsBayes2",          "*release", # Track most recent release
+  "bbsBayes2",          "https://github.com/bbsBayes/bbsBayes2",          NA_character_, #"*release", # Track most recent release once we have one
   "cmdstanr",           "https://github.com/stan-dev/cmdstanr/",          "*release", # Track most recent release
   "rnaturalearthhires", "https://github.com/ropensci/rnaturalearthhires", NA_character_)
 
