@@ -1,5 +1,7 @@
 # https://ropensci.org/blog/2021/06/22/setup-runiverse/
 
+# Remember to *run* this file after making changes
+
 library(dplyr)
 
 df <- tribble(

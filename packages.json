@@ -1,8 +1,7 @@
 [
   {
     "package": "bbsBayes2",
-    "url": "https://github.com/bbsBayes/bbsBayes2",
-    "branch": "*release"
+    "url": "https://github.com/bbsBayes/bbsBayes2"
   },
   {
     "package": "cmdstanr",
